@@ -1,0 +1,134 @@
+C:\Users\draga\Desktop\ELibrary\ELibrary\bin\Debug\ELibrary.exe.config
+C:\Users\draga\Desktop\ELibrary\ELibrary\obj\Debug\ELibrary.exe
+C:\Users\draga\Desktop\ELibrary\ELibrary\obj\Debug\ELibrary.pdb
+C:\Users\draga\Desktop\ELibrary\ELibrary\bin\Debug\ELibrary.exe
+C:\Users\draga\Desktop\ELibrary\ELibrary\bin\Debug\ELibrary.pdb
+C:\Users\draga\Desktop\ELibrary\ELibrary\bin\Debug\Neo4jClient.dll
+C:\Users\draga\Desktop\ELibrary\ELibrary\bin\Debug\Newtonsoft.Json.dll
+C:\Users\draga\Desktop\ELibrary\ELibrary\bin\Debug\Neo4jClient.pdb
+C:\Users\draga\Desktop\ELibrary\ELibrary\bin\Debug\Neo4jClient.xml
+C:\Users\draga\Desktop\ELibrary\ELibrary\bin\Debug\Newtonsoft.Json.xml
+C:\Users\draga\Desktop\ELibrary\ELibrary\obj\Debug\ELibrary.csprojResolveAssemblyReference.cache
+C:\Users\draga\Desktop\ELibrary\ELibrary\obj\Debug\ELibrary.Properties.Resources.resources
+C:\Users\draga\Desktop\ELibrary\ELibrary\obj\Debug\ELibrary.csproj.GenerateResource.Cache
+C:\Users\draga\Desktop\ELibrary\ELibrary\obj\Debug\ELibrary.Login.resources
+C:\Users\draga\Desktop\ELibrary\ELibrary\obj\Debug\ELibrary.LibrarianMain.resources
+C:\Users\draga\Desktop\ELibrary\ELibrary\bin\Debug\MetroFramework.dll
+C:\Users\draga\Desktop\ELibrary\ELibrary\obj\Debug\ELibrary.AddWorker.resources
+C:\Users\draga\Desktop\ELibrary\ELibrary\obj\Debug\ELibrary.AddAuthor.resources
+C:\Users\draga\Desktop\ELibrary\ELibrary\obj\Debug\ELibrary.AddUser.resources
+C:\Users\draga\Desktop\ELibrary\ELibrary\obj\Debug\ELibrary.AddBook.resources
+C:\Users\draga\Desktop\ELibrary\ELibrary\obj\Debug\ELibrary.SeeComments.resources
+C:\Users\draga\Desktop\ELibrary\ELibrary\obj\Debug\ELibrary.SeeWorkers.resources
+C:\Users\draga\Desktop\ELibrary\ELibrary\obj\Debug\ELibrary.SeeUsers.resources
+C:\Users\draga\Desktop\ELibrary\ELibrary\obj\Debug\ELibrary.SearchBooks.resources
+C:\Users\draga\Desktop\ELibrary\ELibrary\obj\Debug\ELibrary.SeeBooks.resources
+C:\Users\draga\Desktop\ELibrary\ELibrary\obj\Debug\ELibrary.SearchUsers.resources
+C:\Users\Milan\Desktop\Gaga baze\ELibrary\ELibrary\bin\Debug\ELibrary.exe.config
+C:\Users\Milan\Desktop\Gaga baze\ELibrary\ELibrary\obj\Debug\ELibrary.exe
+C:\Users\Milan\Desktop\Gaga baze\ELibrary\ELibrary\obj\Debug\ELibrary.pdb
+C:\Users\Milan\Desktop\Gaga baze\ELibrary\ELibrary\bin\Debug\ELibrary.exe
+C:\Users\Milan\Desktop\Gaga baze\ELibrary\ELibrary\bin\Debug\ELibrary.pdb
+C:\Users\Milan\Desktop\Gaga baze\ELibrary\ELibrary\bin\Debug\Neo4jClient.dll
+C:\Users\Milan\Desktop\Gaga baze\ELibrary\ELibrary\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Milan\Desktop\Gaga baze\ELibrary\ELibrary\bin\Debug\Neo4jClient.pdb
+C:\Users\Milan\Desktop\Gaga baze\ELibrary\ELibrary\bin\Debug\Neo4jClient.xml
+C:\Users\Milan\Desktop\Gaga baze\ELibrary\ELibrary\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Milan\Desktop\Gaga baze\ELibrary\ELibrary\obj\Debug\ELibrary.csprojResolveAssemblyReference.cache
+C:\Users\Milan\Desktop\Gaga baze\ELibrary\ELibrary\obj\Debug\ELibrary.AddAuthor.resources
+C:\Users\Milan\Desktop\Gaga baze\ELibrary\ELibrary\obj\Debug\ELibrary.AddBook.resources
+C:\Users\Milan\Desktop\Gaga baze\ELibrary\ELibrary\obj\Debug\ELibrary.AddUser.resources
+C:\Users\Milan\Desktop\Gaga baze\ELibrary\ELibrary\obj\Debug\ELibrary.AddWorker.resources
+C:\Users\Milan\Desktop\Gaga baze\ELibrary\ELibrary\obj\Debug\ELibrary.LibrarianMain.resources
+C:\Users\Milan\Desktop\Gaga baze\ELibrary\ELibrary\obj\Debug\ELibrary.Login.resources
+C:\Users\Milan\Desktop\Gaga baze\ELibrary\ELibrary\obj\Debug\ELibrary.Properties.Resources.resources
+C:\Users\Milan\Desktop\Gaga baze\ELibrary\ELibrary\obj\Debug\ELibrary.SearchBooks.resources
+C:\Users\Milan\Desktop\Gaga baze\ELibrary\ELibrary\obj\Debug\ELibrary.SearchUsers.resources
+C:\Users\Milan\Desktop\Gaga baze\ELibrary\ELibrary\obj\Debug\ELibrary.SeeBooks.resources
+C:\Users\Milan\Desktop\Gaga baze\ELibrary\ELibrary\obj\Debug\ELibrary.SeeComments.resources
+C:\Users\Milan\Desktop\Gaga baze\ELibrary\ELibrary\obj\Debug\ELibrary.SeeUsers.resources
+C:\Users\Milan\Desktop\Gaga baze\ELibrary\ELibrary\obj\Debug\ELibrary.SeeWorkers.resources
+C:\Users\Milan\Desktop\Gaga baze\ELibrary\ELibrary\obj\Debug\ELibrary.csproj.GenerateResource.Cache
+C:\Users\Milan\Dropbox\IV godina\baze\ELibrary\ELibrary\bin\Debug\ELibrary.exe.config
+C:\Users\Milan\Dropbox\IV godina\baze\ELibrary\ELibrary\bin\Debug\ELibrary.exe
+C:\Users\Milan\Dropbox\IV godina\baze\ELibrary\ELibrary\bin\Debug\ELibrary.pdb
+C:\Users\Milan\Dropbox\IV godina\baze\ELibrary\ELibrary\bin\Debug\Neo4jClient.dll
+C:\Users\Milan\Dropbox\IV godina\baze\ELibrary\ELibrary\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Milan\Dropbox\IV godina\baze\ELibrary\ELibrary\bin\Debug\Neo4jClient.pdb
+C:\Users\Milan\Dropbox\IV godina\baze\ELibrary\ELibrary\bin\Debug\Neo4jClient.xml
+C:\Users\Milan\Dropbox\IV godina\baze\ELibrary\ELibrary\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Milan\Dropbox\IV godina\baze\ELibrary\ELibrary\obj\Debug\ELibrary.AddAuthor.resources
+C:\Users\Milan\Dropbox\IV godina\baze\ELibrary\ELibrary\obj\Debug\ELibrary.AddBook.resources
+C:\Users\Milan\Dropbox\IV godina\baze\ELibrary\ELibrary\obj\Debug\ELibrary.AddUser.resources
+C:\Users\Milan\Dropbox\IV godina\baze\ELibrary\ELibrary\obj\Debug\ELibrary.AddWorker.resources
+C:\Users\Milan\Dropbox\IV godina\baze\ELibrary\ELibrary\obj\Debug\ELibrary.LibrarianMain.resources
+C:\Users\Milan\Dropbox\IV godina\baze\ELibrary\ELibrary\obj\Debug\ELibrary.Login.resources
+C:\Users\Milan\Dropbox\IV godina\baze\ELibrary\ELibrary\obj\Debug\ELibrary.Properties.Resources.resources
+C:\Users\Milan\Dropbox\IV godina\baze\ELibrary\ELibrary\obj\Debug\ELibrary.SearchBooks.resources
+C:\Users\Milan\Dropbox\IV godina\baze\ELibrary\ELibrary\obj\Debug\ELibrary.SearchUsers.resources
+C:\Users\Milan\Dropbox\IV godina\baze\ELibrary\ELibrary\obj\Debug\ELibrary.SeeBooks.resources
+C:\Users\Milan\Dropbox\IV godina\baze\ELibrary\ELibrary\obj\Debug\ELibrary.SeeComments.resources
+C:\Users\Milan\Dropbox\IV godina\baze\ELibrary\ELibrary\obj\Debug\ELibrary.SeeUsers.resources
+C:\Users\Milan\Dropbox\IV godina\baze\ELibrary\ELibrary\obj\Debug\ELibrary.SeeWorkers.resources
+C:\Users\Milan\Dropbox\IV godina\baze\ELibrary\ELibrary\obj\Debug\ELibrary.csproj.GenerateResource.Cache
+C:\Users\Milan\Dropbox\IV godina\baze\ELibrary\ELibrary\obj\Debug\ELibrary.exe
+C:\Users\Milan\Dropbox\IV godina\baze\ELibrary\ELibrary\obj\Debug\ELibrary.pdb
+C:\Users\Milan\Dropbox\IV godina\baze\ELibrary\ELibrary\obj\Debug\ELibrary.csprojResolveAssemblyReference.cache
+C:\Users\draga\Downloads\ELibrary\ELibrary\bin\Debug\ELibrary.exe.config
+C:\Users\draga\Downloads\ELibrary\ELibrary\obj\Debug\ELibrary.exe
+C:\Users\draga\Downloads\ELibrary\ELibrary\obj\Debug\ELibrary.pdb
+C:\Users\draga\Downloads\ELibrary\ELibrary\bin\Debug\ELibrary.exe
+C:\Users\draga\Downloads\ELibrary\ELibrary\bin\Debug\ELibrary.pdb
+C:\Users\draga\Downloads\ELibrary\ELibrary\bin\Debug\MetroFramework.dll
+C:\Users\draga\Downloads\ELibrary\ELibrary\bin\Debug\Neo4jClient.dll
+C:\Users\draga\Downloads\ELibrary\ELibrary\bin\Debug\Newtonsoft.Json.dll
+C:\Users\draga\Downloads\ELibrary\ELibrary\bin\Debug\Neo4jClient.pdb
+C:\Users\draga\Downloads\ELibrary\ELibrary\bin\Debug\Neo4jClient.xml
+C:\Users\draga\Downloads\ELibrary\ELibrary\bin\Debug\Newtonsoft.Json.xml
+C:\Users\draga\Downloads\ELibrary\ELibrary\obj\Debug\ELibrary.csprojResolveAssemblyReference.cache
+C:\Users\draga\Downloads\ELibrary\ELibrary\obj\Debug\ELibrary.AddAuthor.resources
+C:\Users\draga\Downloads\ELibrary\ELibrary\obj\Debug\ELibrary.AddBook.resources
+C:\Users\draga\Downloads\ELibrary\ELibrary\obj\Debug\ELibrary.AddUser.resources
+C:\Users\draga\Downloads\ELibrary\ELibrary\obj\Debug\ELibrary.AddWorker.resources
+C:\Users\draga\Downloads\ELibrary\ELibrary\obj\Debug\ELibrary.LibrarianMain.resources
+C:\Users\draga\Downloads\ELibrary\ELibrary\obj\Debug\ELibrary.Login.resources
+C:\Users\draga\Downloads\ELibrary\ELibrary\obj\Debug\ELibrary.Properties.Resources.resources
+C:\Users\draga\Downloads\ELibrary\ELibrary\obj\Debug\ELibrary.SearchBooks.resources
+C:\Users\draga\Downloads\ELibrary\ELibrary\obj\Debug\ELibrary.SearchUsers.resources
+C:\Users\draga\Downloads\ELibrary\ELibrary\obj\Debug\ELibrary.SeeBooks.resources
+C:\Users\draga\Downloads\ELibrary\ELibrary\obj\Debug\ELibrary.SeeComments.resources
+C:\Users\draga\Downloads\ELibrary\ELibrary\obj\Debug\ELibrary.SeeUsers.resources
+C:\Users\draga\Downloads\ELibrary\ELibrary\obj\Debug\ELibrary.SeeWorkers.resources
+C:\Users\draga\Downloads\ELibrary\ELibrary\obj\Debug\ELibrary.csproj.GenerateResource.Cache
+C:\Users\draga\Desktop\ELibraryDesktopApp\ELibrary\bin\Debug\ELibrary.exe.config
+C:\Users\draga\Desktop\ELibraryDesktopApp\ELibrary\obj\Debug\ELibrary.exe
+C:\Users\draga\Desktop\ELibraryDesktopApp\ELibrary\obj\Debug\ELibrary.pdb
+C:\Users\draga\Desktop\ELibraryDesktopApp\ELibrary\bin\Debug\ELibrary.exe
+C:\Users\draga\Desktop\ELibraryDesktopApp\ELibrary\bin\Debug\ELibrary.pdb
+C:\Users\draga\Desktop\ELibraryDesktopApp\ELibrary\bin\Debug\MetroFramework.dll
+C:\Users\draga\Desktop\ELibraryDesktopApp\ELibrary\bin\Debug\Neo4jClient.dll
+C:\Users\draga\Desktop\ELibraryDesktopApp\ELibrary\bin\Debug\Newtonsoft.Json.dll
+C:\Users\draga\Desktop\ELibraryDesktopApp\ELibrary\bin\Debug\Neo4jClient.pdb
+C:\Users\draga\Desktop\ELibraryDesktopApp\ELibrary\bin\Debug\Neo4jClient.xml
+C:\Users\draga\Desktop\ELibraryDesktopApp\ELibrary\bin\Debug\Newtonsoft.Json.xml
+C:\Users\draga\Desktop\ELibraryDesktopApp\ELibrary\obj\Debug\ELibrary.csprojResolveAssemblyReference.cache
+C:\Users\draga\Desktop\ELibraryDesktopApp\ELibrary\obj\Debug\ELibrary.AddAuthor.resources
+C:\Users\draga\Desktop\ELibraryDesktopApp\ELibrary\obj\Debug\ELibrary.AddBook.resources
+C:\Users\draga\Desktop\ELibraryDesktopApp\ELibrary\obj\Debug\ELibrary.AddUser.resources
+C:\Users\draga\Desktop\ELibraryDesktopApp\ELibrary\obj\Debug\ELibrary.AddWorker.resources
+C:\Users\draga\Desktop\ELibraryDesktopApp\ELibrary\obj\Debug\ELibrary.LibrarianMain.resources
+C:\Users\draga\Desktop\ELibraryDesktopApp\ELibrary\obj\Debug\ELibrary.Login.resources
+C:\Users\draga\Desktop\ELibraryDesktopApp\ELibrary\obj\Debug\ELibrary.Properties.Resources.resources
+C:\Users\draga\Desktop\ELibraryDesktopApp\ELibrary\obj\Debug\ELibrary.SearchBooks.resources
+C:\Users\draga\Desktop\ELibraryDesktopApp\ELibrary\obj\Debug\ELibrary.SearchUsers.resources
+C:\Users\draga\Desktop\ELibraryDesktopApp\ELibrary\obj\Debug\ELibrary.SeeBooks.resources
+C:\Users\draga\Desktop\ELibraryDesktopApp\ELibrary\obj\Debug\ELibrary.SeeComments.resources
+C:\Users\draga\Desktop\ELibraryDesktopApp\ELibrary\obj\Debug\ELibrary.SeeUsers.resources
+C:\Users\draga\Desktop\ELibraryDesktopApp\ELibrary\obj\Debug\ELibrary.SeeWorkers.resources
+C:\Users\draga\Desktop\ELibraryDesktopApp\ELibrary\obj\Debug\ELibrary.csproj.GenerateResource.Cache
+D:\we are all officialy elfak'd\4.1. NBazePodataka\0. NASI PROJEKTI\Library Managment System\ELibraryDesktopApp\ELibrary\bin\Debug\ELibrary.exe.config
+D:\we are all officialy elfak'd\4.1. NBazePodataka\0. NASI PROJEKTI\Library Managment System\ELibraryDesktopApp\ELibrary\obj\Debug\ELibrary.exe
+D:\we are all officialy elfak'd\4.1. NBazePodataka\0. NASI PROJEKTI\Library Managment System\ELibraryDesktopApp\ELibrary\obj\Debug\ELibrary.pdb
+D:\we are all officialy elfak'd\4.1. Napredne Baze Podataka\0. NASI PROJEKTI\Library Managment System\ELibraryDesktopApp\ELibrary\bin\Debug\ELibrary.exe.config
+D:\we are all officialy elfak'd\4.1. Napredne Baze Podataka\0. NASI PROJEKTI\Library Managment System\ELibraryDesktopApp\ELibrary\obj\Debug\ELibrary.exe
+D:\we are all officialy elfak'd\4.1. Napredne Baze Podataka\0. NASI PROJEKTI\Library Managment System\ELibraryDesktopApp\ELibrary\obj\Debug\ELibrary.pdb
